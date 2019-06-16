@@ -5,7 +5,6 @@ Computing infrastructure requirements: Anaconda Python Installation, 40GB storag
 
 
 Compute Infrastructure Preparation Instructions:
-
 1) Download this entire repository
 2) Place input feature file and label csv file into the same folder
 3) Download trained models and essential utility files from: https://drive.google.com/open?id=1F2ylS0u4JVIfD3e1lwGnSsMOnMZtID5z
@@ -17,7 +16,6 @@ Compute Infrastructure Preparation Instructions:
 
 
 Computing Scripts Instructions:
-
 1) Open script 1, replace input features file and label file with the test file names
 2) Open script 4, put in number of cores of the machine the script is going to run on
 3) Replace the shebang of each script with your own anaconda interpreter path
