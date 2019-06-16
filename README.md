@@ -1,7 +1,7 @@
 # Singapore Grab AI Challenge Submission (Safety)
 
 Model architecture & workflow explanations are summarized in short presentation file: Grab AI Challenge Presentation - Safety - Lewis.pdf
-\n
+
 Computing infrastructure requirements: Anaconda Python Installation, 40GB storage space, 32GB ram
 
 Compute Infrastructure Preparation Instructions:
