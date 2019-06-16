@@ -1,4 +1,4 @@
-#!/home/solidsnake01/anaconda3/bin/python3.7
+#!/home/ubuntu/anaconda3/bin/python3.7
 
 from sklearn.metrics import roc_auc_score, roc_curve
 from sklearn.externals import joblib
