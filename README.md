@@ -1,5 +1,5 @@
-# GRAB_AI_CHALLENGE
-Singapore Grab AI Challenge Submission (Safety)
+# Singapore Grab AI Challenge Submission (Safety)
+
 
 Computing infrastructure requirements: Anaconda Python Installation, 40GB storage space, 32GB ram
 
