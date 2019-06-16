@@ -1,4 +1,4 @@
-#!/home/solidsnake01/anaconda3/bin/python3.7
+#!/home/ubuntu/anaconda3/bin/python3.7
 
 from sklearn.preprocessing import RobustScaler
 from tensorflow.keras.models import load_model
