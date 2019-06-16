@@ -20,8 +20,8 @@ Computing Scripts Instructions:
   3) Replace the shebang of each script with your own anaconda interpreter path
   4) Run script 1
   5) Run script 2
-  6) Run script 3 - this takes some time, you can read the pdf presentation to understand the pipeline architecture more
+  6) Run script 3 (nohup recommended) - this takes time, you can read the pdf presentation to understand the pipeline architecture more
   7) pip install tsfresh - this is due to tsfresh requiring an older pandas version to work
-  8) Run script 4
+  8) Run script 4 (nohup recommended)
   9) Run script 5 - predictions are exported into a csv file, if encounter error here, pip install pandas
   
