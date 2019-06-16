@@ -1,9 +1,9 @@
 # Singapore Grab AI Challenge Submission (Safety)
-
+<br />
 Model architecture & workflow explanations are summarized in short presentation file: Grab AI Challenge Presentation - Safety - Lewis.pdf
-
+<br />
 Computing infrastructure requirements: Anaconda Python Installation, 40GB storage space, 32GB ram
-
+<br />
 Compute Infrastructure Preparation Instructions:
   1) Download this entire repository
   2) Place input feature file and label csv file into the same folder
@@ -13,7 +13,7 @@ Compute Infrastructure Preparation Instructions:
   6) pip install tensorflow
   7) pip install lightgbm
   8) Install dependencies if the module cannot be found during running of scripts: numpy, scikit-learn, h5py
-
+<br />
 Computing Scripts Instructions:
   1) Open script 1 and replace input features file and label file with the test file names
   2) Open script 4 and put in number of cores of the machine the script is going to run on
