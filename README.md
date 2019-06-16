@@ -24,4 +24,5 @@ Computing Scripts Instructions:
   7) pip install tsfresh - this is due to tsfresh requiring an older pandas version to work
   8) Run script 4 (nohup recommended)
   9) Run script 5 - predictions are exported into a csv file, if encounter error here, pip install pandas
+  10) ROC AUC plot - exported as ROC_AUC_Plot.jpg
   
