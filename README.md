@@ -13,8 +13,8 @@ Compute Infrastructure Preparation Instructions:
   8) Install dependencies if the module cannot be found during running of scripts: numpy, scikit-learn, h5py
 
 Computing Scripts Instructions:
-  1) Open script 1, replace input features file and label file with the test file names
-  2) Open script 4, put in number of cores of the machine the script is going to run on
+  1) Open script 1 and replace input features file and label file with the test file names
+  2) Open script 4 and put in number of cores of the machine the script is going to run on
   3) Replace the shebang of each script with your own anaconda interpreter path
   4) Run script 1
   5) Run script 2
